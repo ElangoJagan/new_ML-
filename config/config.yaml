@@ -1,0 +1,16 @@
+data:
+  raw_path: data/raw/spam.csv
+  processed_path: data/processed/cleaned.csv
+
+model:
+  test_size: 0.2
+  random_state: 42
+  model_path: artifacts/model.pkl
+  vectorizer_path: artifacts/vectorizer.pkl
+
+app:
+  title: SMS Spam Detection
+  description: Detects whether a message is spam or not
+
+
+
