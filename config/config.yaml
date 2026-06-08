@@ -1,6 +1,6 @@
 data:
   raw_path: data/raw/spam.csv
-  processed_path: data/processed/cleaned.csv
+  processed_path: data/processed_path/cleaned.csv
 
 model:
   test_size: 0.2
