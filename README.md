@@ -168,8 +168,8 @@ Open browser at `http://localhost:8501`
 ## 👨‍💻 Author
 
 **Your Name**
-- 🐙 GitHub: [@your_username](https://github.com/your_username)
-- 💼 LinkedIn: [your_linkedin](https://linkedin.com/in/your_linkedin)
+- 🐙 GitHub: [ElangoJagan](https://github.com/ElangoJagan)
+- 💼 LinkedIn: [ElangoJagan](https://www.linkedin.com/in/elango-jagan-6b07211ba/)
 
 ---
 
