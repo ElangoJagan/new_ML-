@@ -31,9 +31,9 @@ message = st.text_area('Enter your Messages Here!', height=150, placeholder= 'Ty
 #predict button
 if st.button('Check Message ', use_container_width=True):
     if message.strip() =="":
-        st.warning('Please enter a messae first!')
+        st.warning('Please enter a message first!')
     else:
-        with st.spinner('Analyzinf messages.....'):
+        with st.spinner('Analyzing messages.....'):
             result, confidence = predict(message,model, vectorizer)
             
         st.divider()

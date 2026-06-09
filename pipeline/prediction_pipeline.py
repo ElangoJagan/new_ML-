@@ -38,3 +38,4 @@ if __name__ == "__main__":
         print(f"🎯 Result     : {result}")
         print(f"📊 Confidence : {confidence:.2f}%")
         print("-" * 60)
+        
